@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-your-gentle-spell/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Under Your Gentle Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-your-gentle-spell/) |
+| **Get License** | [Get License For Under Your Gentle Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-your-gentle-spell/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Underneath the moonlight, I’m pulling you near
+> Watching all the shadows slowly disappear
+> Wrapped up in a moment that I never want to break
+> Every little move is a chance I want to take
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
