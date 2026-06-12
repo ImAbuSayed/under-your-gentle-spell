@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Under Your Gentle Spell
+
+This log tracks the cryptographic history and versioning for the song **Under Your Gentle Spell** (under-your-gentle-spell).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T02:19:00.719774 | `v1` | `fe72633af2c30f5993bdda9cc3ffef898eb89d13e467251744c2e6d533068b3b` | `631f571c34a1ba26b256c6feba1f53aed22f6210bb4694dde12f9b727fdeafae` | `2026-06-13_under-your-gentle-spell-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
